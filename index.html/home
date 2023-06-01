@@ -1,1 +1,27 @@
+<html>
+  <head>
+    <section style="display: flex">
+      <section>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHwlVa7gy4gCsd-EOxLk1iEWZ360oEqkDXg&usqp=CAU" style="align-items: left">
+      </section>
+      <header>
+        <a href="">propiedades</a>
+        <a href="">sobre</a>
+        <a href="">contato</a>
+      </header>
+    </section>
+  </head>
+    <hr>
+    <body>
+      <div style="">
+        <img src="https://cglimpeza.com.br/wp-content/uploads/2019/02/2019-03-16-limpeza-de-academia-800x415.jpg">
+      </div>
+      <hr>
+      <section>
+        <p>
+          Local onde há aulas de ginástica, de musculação; estabelecimento em que várias modalidades esportivas são praticadas. Organização de teor literário, científico ou artístico: Academia de Ciências.
+        </p>
+      </section>
 
+
+    </body>
