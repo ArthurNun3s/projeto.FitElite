@@ -1,3 +1,4 @@
+
 <html>
    <head>
       <title>Contato</title>
@@ -6,14 +7,12 @@
    <body>
       <div style="background-color: peachpuff; margin-bottom: 50px;">
       <header>
-         <h1>Informações sobre academia</h1>
          <img src="imagens/logo.png" height="200" width="200">
          <nav>
-            <ul>
-               <li><a href= "index.html">Home</a></li>
-               <li><a href ="">About</a></li>
-               <li><a href ="AcademiaContato.html">Contato</a></li>
-            </ul>
+               <a href= "index.html">Home</a>
+               <a href ="#">About</a>
+               <a href ="AcademiaContato.html">Contato</a>
+               <a href ="#">Integrantes</a>
          </nav>
       </header>
       <div style="background-color: antiquewhite;">
