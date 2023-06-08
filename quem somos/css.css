@@ -1,7 +1,72 @@
-.container {
-    display: flex;
-    justify-content: space-around;
-    align-items: stretch;
-    gap: 20px;
-    
-  }
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: dimgray;
+}
+.about-1{
+    margin: 3;
+    padding: 5px;
+}
+.about-1 h1{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.about-1 p{
+    text-align:center ;
+    padding: 3px;
+    color: #fff;
+}
+.about-intem{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: white;
+    padding: 80px,30px;
+    box-shadow: 0 0 9px rgba(0,0,0 .6);
+}
+.somos-1{
+    color: white;
+}
+.about-intem h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.about-intem hr{
+    width: 46px;
+    height: 3px;
+    background-color: #f30c0c;
+    margin:0 auto ;
+    border: nome;
+}
+about-intem p{
+    margin-top: 20px;
+}
+.about-intem:hover{
+    background-color: rgb(0, 153, 255);
+}
+.about-intem:hover i,
+.about-intem:hover h3,
+.about-intem:hover p{
+    color: #fff;
+}
+
+.about-intem:hover hr{
+    background-color: #fff;
+}
+.about-intem:hover i{
+    transform: translate(-20px);
+}
+.about-intem:hover i,
+.about-intem h3,
+.about-intem:hover hr{
+    transition: all 500ms ease-in-out;
+}
+footer{
+    background: #212226;
+    padding: 20px;
+}
+footer p{
+    color:#fff
+}
