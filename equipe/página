@@ -34,4 +34,21 @@
       </div>
     </section>
   </section>
+  <div>
+     <footer>
+        <div>
+           <h2>Integrantes</h2>
+           <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="AcademiaContato.html">Fale conosco</a></li>
+           </ul>
+           <ul>
+              <li>Arthur Nunes<img src ="imagens/IMG_9661.jpg" Align="Left" height="50" width="50"/></li>
+              <li>Matheus Melo<img src ="Imagens/melo.png" Align="Left" height="50" width="50"></li>
+              <li>Thiago Fernandes<img src ="Imagens/thiago.jpg" Align="Left" height="50" width="50"></li>
+           </ul>
+        </div>
+        <div>&copy;Matheus Melo, Arthur Nunes, Thiago Fernandes,Gabriel Gonzaga.</div>
+     </footer>
+  </div>
   </html>
