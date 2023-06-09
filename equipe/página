@@ -1,0 +1,37 @@
+<DOCTYPE!HTML>
+  <html>
+  <section style="display: flex; justify-content: space-between; margin: 20px; ">
+    <section style="width: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/1116176053677862913/1116179919601401856/arthur.jpg" width="100px" height="100px">
+      <div style="justify-content: center; margin: auto; ">
+        <h1><strong>Arthur Nunes Campos Rodrigues</strong></h1>
+        <h3>dev da página dos integrantes</h3>
+        <h4>teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste </h4>
+      </div>
+    </section>
+    <section style="width: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/1116176053677862913/1116179920272511016/melo.png"width="100px" height="100px">
+      <div style="align-items: center; margin: auto; ">
+        <h1><strong>Matheus Melo</strong></h1>
+        <h3>dev da parte de comunicação entre cliente e "empresa"</h3>
+        <h4>teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste </h4>
+      </div>
+    </section>
+    <section style="width: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/1116176053677862913/1116179920733876305/thiago.jpg"width="100px" height="100px">
+      <div style="align-items: center; margin: auto; ">
+        <h1><strong>Thiago Fernandes</strong></h1>
+        <h3>dev da parte de design geral</h3>
+        <h4>teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste </h4>
+      </div>
+    </section>
+    <section style="width: 25%;">
+      <img src="https://media.discordapp.net/attachments/1116176053677862913/1116179916707332267/logo.png?width=625&height=625"width="100px" height="100px">
+      <div style="justify-content: center; margin: auto; ">
+        <h1><strong>Gabriel Gonzaga</strong></h1>
+        <h3>dev da página de noticias</h3>
+        <h4>teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste teste teste e teste, algma coisa deu certo? teste teste </h4>
+      </div>
+    </section>
+  </section>
+  </html>
