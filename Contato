@@ -1,22 +1,25 @@
-
 <html>
    <head>
       <title>Contato</title>
       <link href="css/style.css" rel="stylesheet">
    </head>
    <body>
-      <div style="background-color: peachpuff; margin-bottom: 50px;">
-      <header>
-         <img src="imagens/logo.png" height="200" width="200">
-         <nav>
-               <a href= "index.html">Home</a>
-               <a href ="#">About</a>
-               <a href ="AcademiaContato.html">Contato</a>
-               <a href ="#">Integrantes</a>
-         </nav>
-      </header>
-      <div style="background-color: antiquewhite;">
-         <h1 style="color: brown;">Contato</h1>
+      <div>
+         <header class="header">
+            <div class="center">
+              <div class="logo">
+                <img src="Imagens/logo.png" alt="Logo" class="logo-img" />
+              </div>
+              <nav class="menu">
+                <a href="index.html">Home</a>
+                <a href="#">About</a>
+                <a href="AcademiaContato.html">Contato</a>
+                <a href="#">Integrantes</a>
+              </nav>
+            </div>
+          </header>
+      <div class ="body">
+         <h1>SEU CONTATO É MUITO IMPORTANTE PARA NÓS</h1>
          <h3>Prencha o formulario a baixo para entrar em contato conosco</h3>
          <form action="obrigado.html" method="get">
             <label>Seu nome: </label>
@@ -39,22 +42,13 @@
             <input type="submit" value="Enviar Mensagem">
          </form>
       </div>
+      <section class="banner", style="margin-bottom: 0px;">
+         <img src="imagens/banner_home_FitElite.png" alt="banner"/>
+       </section>
       <div>
-         <footer>
-            <div>
-               <h2>Integrantes</h2>
-               <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="AcademiaContato.html">Fale conosco</a></li>
-               </ul>
-               <ul>
-                  <li>Arthur Nunes<img src ="imagens/IMG_9661.jpg" Align="Left" height="50" width="50"/></li>
-                  <li>Matheus Melo<img src ="Imagens/melo.png" Align="Left" height="50" width="50"></li>
-                  <li>Thiago Fernandes<img src ="Imagens/thiago.jpg" Align="Left" height="50" width="50"></li>
-               </ul>
-            </div>
-            <div>&copy;Matheus Melo, Arthur Nunes, Thiago Fernandes,Gabriel Gonzaga.</div>
-         </footer>
+         <footer class="footer">
+            <p>&copy; Todos os direitos reservados para: Matheus Melo, Arthur Nunes, Thiago Fernandes, Gabriel Gonzaga.</p>
+          </footer>
       </div>
    </body>
 </html>
