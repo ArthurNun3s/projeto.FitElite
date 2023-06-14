@@ -1,0 +1,153 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .body { background: linear-gradient(90.15deg, #251D3A 16.62%, #100d1a 85.61%);
+  
+  }
+  .body label {
+  color: white;
+  display: flex;
+  text-align: left;
+  width: 400px;
+  line-height: 20px;
+  margin-bottom: 10px; 
+  margin-left: 600px;
+  }
+
+  .body input {
+    display: flex;
+    text-align: left;
+    width: 400px;
+    line-height: 20px;
+    margin-left: 700px;
+  }
+
+  .body select {
+    display: flex;
+    text-align: left;
+    width: 400px;
+    line-height: 20px;
+    margin-bottom: 10px; 
+    margin-left: 700px;
+    
+  }
+  .body textarea{
+    display: flex;
+    text-align: left;
+    width: 400px;
+    line-height: 20px;
+    margin-bottom: 10px; 
+    margin-left: 700px;
+  }
+  
+  .teste{
+    transform: scale(4);
+    margin: 20px;
+  }
+  
+  .body h1 {
+    color: white;
+    margin-left: 300px;
+    padding: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+  }
+  .body h3{
+    color: white;
+    padding-bottom: 10px;
+    margin-left: 500px;
+    padding: 10px;
+    padding-bottom: 10px;
+  }
+  .header {
+      background-color: #251D3A;
+      padding: 0px;
+      color: white;
+    }
+  
+    .header .center {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    .header .logo img {
+      width: 85px;
+      padding-left: 10px;
+    }
+  
+    .header .menu a {
+      color: white;
+      margin-right: 50px;
+      text-decoration: none;
+    }
+  
+    .header .menu a:hover {
+      text-decoration: underline;
+    }
+  
+    .banner {
+      text-align: center;
+      margin-top: 0px;
+      margin-bottom: 200px;
+      border-top: 1px solid #000;
+      border-bottom: 1px solid #000;
+    }
+  
+    .banner img {
+      max-width: 100%;
+      height: auto;
+    }
+  
+    .image-links {
+      display: flex;
+      justify-content: space-around;
+    }
+  
+    .image-links a {
+      margin-right: 20px;
+      text-decoration: none;
+      border-top: 1px solid #000;
+      border-bottom: 1px solid #000;
+    }
+  
+    .image-links p {
+      color: white;
+      cursor:default;
+    }
+    .footer{
+      color: white;
+      background: linear-gradient(90.15deg, #251D3A 16.62%, #100d1a 85.61%);
+      padding: 20px;
+      text-align: center;
+      border-top: 1px solid #000;
+    }
+
+    .contatobanner {
+      text-align: left;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      border-top: 0px solid #000;
+      border-bottom: 0px solid #000;
+    }
+
+    .contatobanner img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .obrigadobanner {
+      text-align: left;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      border-top: 0px solid #000;
+      border-bottom: 0px solid #000;
+    }
+
+    .obrigadobanner img {
+      max-width: 100%;
+      height: auto;
+    }
