@@ -1,0 +1,31 @@
+<html>
+   <head>
+      <title>FitElite</title>
+      <link href="css/style.css" rel="stylesheet">
+    </head>
+   <body>
+      <div class="body">
+      <header class="header">
+         <div class="center">
+           <div class="logo">
+             <img src="Imagens/logo.png" alt="Logo" class="logo-img" />
+           </div>
+           <nav class="menu">
+             <a href="index.html">Home</a>
+             <a href="#">About</a>
+             <a href="AcademiaContato.html">Contato</a>
+             <a href="#">Integrantes</a>
+           </nav>
+         </div>
+       </header>
+      </div>
+      <section class = "obrigadobanner">
+         <img src="Imagens/obrigado.png" alt="obrigadobanner">
+      </section>
+      <div>
+         <footer class="footer">
+            <p>&copy; Todos os direitos reservados para: Matheus Melo, Arthur Nunes, Thiago Fernandes, Gabriel Gonzaga.</p>
+          </footer>
+      </div>
+   </body>
+</html>
