@@ -1,27 +1,27 @@
 <html>
    <head>
-      <title>Contato</title>
+      <title>FitElite</title>
       <link href="css/style.css" rel="stylesheet">
    </head>
    <body>
       <div>
          <header class="header">
             <div class="center">
-              <div class="logo">
-                <img src="Imagens/logo.png" alt="Logo" class="logo-img" />
-              </div>
-              <nav class="menu">
-                <a href="index.html">Home</a>
-                <a href="#">About</a>
-                <a href="AcademiaContato.html">Contato</a>
-                <a href="#">Integrantes</a>
-              </nav>
+               <div class="logo">
+                  <img src="Imagens/logo.png" alt="Logo" class="logo-img" />
+               </div>
+               <nav class="menu">
+                  <a href="index.html">Home</a>
+                  <a href="#">About</a>
+                  <a href="AcademiaContato.html">Contato</a>
+                  <a href="#">Integrantes</a>
+               </nav>
             </div>
-          </header>
+         </header>
       </div>
       <section class="contatobanner">
          <img src="Imagens/alguma_complicacao.png" alt="contatobanner"/>
-       </section>
+      </section>
       <div>
       <div class ="body">
          <h1>SEU CONTATO É MUITO IMPORTANTE PARA NÓS</h1>
@@ -48,7 +48,7 @@
          </form>
          <footer class="footer">
             <p>&copy; Todos os direitos reservados para: Matheus Melo, Arthur Nunes, Thiago Fernandes, Gabriel Gonzaga.</p>
-          </footer>
+         </footer>
       </div>
    </body>
 </html>
