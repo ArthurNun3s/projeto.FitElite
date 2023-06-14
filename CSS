@@ -26,7 +26,6 @@
     }
 
     .body select {
-      color: white;
       display: flex;
       text-align: left;
       width: 400px;
@@ -36,7 +35,6 @@
       
     }
     .body textarea{
-      color: white;
       display: flex;
       text-align: left;
       width: 400px;
